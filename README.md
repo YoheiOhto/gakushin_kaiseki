@@ -1,0 +1,2 @@
+# gakushin_kaiseki
+日本学術振興会DC奨学金の採用を解析する
